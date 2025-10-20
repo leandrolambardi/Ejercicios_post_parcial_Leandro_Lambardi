@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DESARROLLO DE SOFTWARE\\SEGUNDO CUATRIMESTRE\\ORIENTADA A OBJETOS\\Ejercicios Csharp\\Ejercicios_post_parcial_Leandro_Lambardi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|e:\\desarrollo de software\\segundo cuatrimestre\\orientada a objetos\\ejercicios csharp\\ejercicios_post_parcial_leandro_lambardi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DESARROLLO DE SOFTWARE\\SEGUNDO CUATRIMESTRE\\ORIENTADA A OBJETOS\\Ejercicios Csharp\\Ejercicios_post_parcial_Leandro_Lambardi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DESARROLLO DE SOFTWARE\\SEGUNDO CUATRIMESTRE\\ORIENTADA A OBJETOS\\Ejercicios Csharp\\Ejercicios_post_parcial_Leandro_Lambardi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:15:38.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

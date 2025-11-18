@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj": {}
+    "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj": {
+    "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
+        "projectUniqueName": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
         "projectName": "Ejercicios_post_parcial_Leandro_Lambardi",
-        "projectPath": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
+        "projectPath": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
         "packagesPath": "C:\\Users\\Valen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\obj\\",
+        "outputPath": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

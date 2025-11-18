@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Leo\\.nuget\\packages\\": {},
+    "C:\\Users\\Valen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DESARROLLO DE SOFTWARE\\SEGUNDO CUATRIMESTRE\\ORIENTADA A OBJETOS\\Ejercicios Csharp\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
+      "projectUniqueName": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
       "projectName": "Ejercicios_post_parcial_Leandro_Lambardi",
-      "projectPath": "E:\\DESARROLLO DE SOFTWARE\\SEGUNDO CUATRIMESTRE\\ORIENTADA A OBJETOS\\Ejercicios Csharp\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
-      "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-      "outputPath": "E:\\DESARROLLO DE SOFTWARE\\SEGUNDO CUATRIMESTRE\\ORIENTADA A OBJETOS\\Ejercicios Csharp\\Ejercicios_post_parcial_Leandro_Lambardi\\obj\\",
+      "projectPath": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
+      "packagesPath": "C:\\Users\\Valen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

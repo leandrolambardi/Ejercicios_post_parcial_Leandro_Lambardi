@@ -1,0 +1,15 @@
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\bin\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.exe
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\bin\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.deps.json
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\bin\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.runtimeconfig.json
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\bin\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.dll
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\bin\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.pdb
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.AssemblyInfoInputs.cache
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.AssemblyInfo.cs
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.sourcelink.json
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.dll
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\refint\Ejercicios_post_parcial_Leandro_Lambardi.dll
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.pdb
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\Ejercicios_post_parcial_Leandro_Lambardi.genruntimeconfig.cache
+C:\Users\Valen\Source\Repos\Ejercicios_post_parcial_Leandro_Lambardi\obj\Debug\net8.0\ref\Ejercicios_post_parcial_Leandro_Lambardi.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicios_post_parcial_Leandro_Lambardi/1.0.0": {
+        "runtime": {
+          "Ejercicios_post_parcial_Leandro_Lambardi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios_post_parcial_Leandro_Lambardi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

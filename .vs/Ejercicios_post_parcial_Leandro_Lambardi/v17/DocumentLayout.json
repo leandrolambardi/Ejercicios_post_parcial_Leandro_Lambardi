@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_5\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_5\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_5\\models\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_5\\models\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_5\\models\\cajaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_5\\models\\cajaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_5\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_5\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicios_post_parcial_leandro_lambardi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicios_post_parcial_leandro_lambardi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_4\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_4\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_4\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_4\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_4\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_4\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_4\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_4\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_3\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_3\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_3\\models\\producoelectr\u00F3nico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_3\\models\\producoelectr\u00F3nico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_3\\models\\productoalimenticio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_3\\models\\productoalimenticio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_3\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_3\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_2\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_2\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_2\\models\\empleadotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_2\\models\\empleadotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_2\\models\\empleadopermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_2\\models\\empleadopermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_2\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_2\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_1\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_1\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_1\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_1\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_1\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_1\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_1\\models\\cami\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_1\\models\\cami\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|c:\\users\\valen\\source\\repos\\ejercicios_post_parcial_leandro_lambardi\\ejercicio_1\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C5B464-868D-41F4-803F-F6A10389D999}|Ejercicios_post_parcial_Leandro_Lambardi.csproj|solutionrelative:ejercicio_1\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_5\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_5\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "Ejercicio_5\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:50:02.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaCorriente.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_5\\Models\\CuentaCorriente.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Models\\CuentaCorriente.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_5\\Models\\CuentaCorriente.cs",
+              "RelativeToolTip": "Ejercicio_5\\Models\\CuentaCorriente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:49:46.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CajaAhorro.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_5\\Models\\CajaAhorro.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Models\\CajaAhorro.cs",
+              "ToolTip": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_5\\Models\\CajaAhorro.cs",
+              "RelativeToolTip": "Ejercicio_5\\Models\\CajaAhorro.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:49:33.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_5\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Models\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_5\\Models\\Cuenta.cs",
+              "RelativeToolTip": "Ejercicio_5\\Models\\Cuenta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:49:25.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_4\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_4\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Ejercicio_4\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:45:47.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:56:20.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_4\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_4\\Models\\Profesor.cs",
+              "RelativeToolTip": "Ejercicio_4\\Models\\Profesor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:44:52.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_4\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_4\\Models\\Alumno.cs",
+              "RelativeToolTip": "Ejercicio_4\\Models\\Alumno.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:44:42.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_4\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_4\\Models\\Persona.cs",
+              "RelativeToolTip": "Ejercicio_4\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:44:37.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicios_post_parcial_Leandro_Lambardi",
+              "DocumentMoniker": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
+              "RelativeDocumentMoniker": "Ejercicios_post_parcial_Leandro_Lambardi.csproj",
+              "ToolTip": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicios_post_parcial_Leandro_Lambardi.csproj",
+              "RelativeToolTip": "Ejercicios_post_parcial_Leandro_Lambardi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T02:00:43.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_3\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_3\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_3\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "Ejercicio_3\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:40:33.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProducoElectr\u00F3nico.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_3\\Models\\ProducoElectr\u00F3nico.cs",
+              "RelativeDocumentMoniker": "Ejercicio_3\\Models\\ProducoElectr\u00F3nico.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_3\\Models\\ProducoElectr\u00F3nico.cs",
+              "RelativeToolTip": "Ejercicio_3\\Models\\ProducoElectr\u00F3nico.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:36:25.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoAlimenticio.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_3\\Models\\ProductoAlimenticio.cs",
+              "RelativeDocumentMoniker": "Ejercicio_3\\Models\\ProductoAlimenticio.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_3\\Models\\ProductoAlimenticio.cs",
+              "RelativeToolTip": "Ejercicio_3\\Models\\ProductoAlimenticio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:35:58.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_3\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicio_3\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_3\\Models\\Producto.cs",
+              "RelativeToolTip": "Ejercicio_3\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:35:45.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_2\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_2\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Ejercicio_2\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:18:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmpleadoPermanente.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_2\\Models\\EmpleadoPermanente.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Models\\EmpleadoPermanente.cs",
+              "ToolTip": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_2\\Models\\EmpleadoPermanente.cs",
+              "RelativeToolTip": "Ejercicio_2\\Models\\EmpleadoPermanente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:16:53.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmpleadoTemporal.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_2\\Models\\EmpleadoTemporal.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Models\\EmpleadoTemporal.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_2\\Models\\EmpleadoTemporal.cs",
+              "RelativeToolTip": "Ejercicio_2\\Models\\EmpleadoTemporal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:16:35.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_2\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_2\\Models\\Empleado.cs",
+              "RelativeToolTip": "Ejercicio_2\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:16:18.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Ejercicio_1\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Valen\\Source\\Repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "Ejercicio_1\\Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:48:28.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VehiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Controllers\\VehiculoController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_1\\Controllers\\VehiculoController.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Controllers\\VehiculoController.cs",
+              "RelativeToolTip": "Ejercicio_1\\Controllers\\VehiculoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:52:52.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "Ejercicio_1\\Models\\Auto.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Models\\Auto.cs",
+              "RelativeToolTip": "Ejercicio_1\\Models\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:48:21.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cami\u00F3n.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Models\\Cami\u00F3n.cs",
+              "RelativeDocumentMoniker": "Ejercicio_1\\Models\\Cami\u00F3n.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Models\\Cami\u00F3n.cs",
+              "RelativeToolTip": "Ejercicio_1\\Models\\Cami\u00F3n.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:49:50.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Models\\Moto.cs",
+              "RelativeDocumentMoniker": "Ejercicio_1\\Models\\Moto.cs",
+              "ToolTip": "C:\\Users\\Valen\\source\\repos\\Ejercicios_post_parcial_Leandro_Lambardi\\Ejercicio_1\\Models\\Moto.cs",
+              "RelativeToolTip": "Ejercicio_1\\Models\\Moto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:49:25.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

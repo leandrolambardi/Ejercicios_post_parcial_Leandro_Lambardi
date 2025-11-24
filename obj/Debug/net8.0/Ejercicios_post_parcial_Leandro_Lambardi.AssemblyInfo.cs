@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicios_post_parcial_Leandro_Lambardi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21c99dd08de79ef210d145b28f5906c38ab995e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c6712f48122e5cca8cf7369cd09048f8f25ab14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicios_post_parcial_Leandro_Lambardi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicios_post_parcial_Leandro_Lambardi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
